@@ -1,27 +1,23 @@
-### Hi there 👋, My name is Furkan
-#### I am Computer Engineer student 
-![I am Computer Engineer student ](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+[![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&amp;ssl=1)
 
-I am making this projects just for fun
+<h1 align="center">Hi 👋, I'm Furkan Dalyan</h1>
+<h3 align="center">A computer engineer student from Turkey</h3>
 
-Skills: PYTHON/ARDUİNO
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkandalyan&label=Profile%20views&color=0e75b6&style=flat" alt="furkandalyan" /> </p>
 
-- 🔭 I’m currently working on PYTHON projects 
-- 🌱 I’m currently learning PYTHON 
-- 📫 How to reach me: dmf.furkan@gmail.com 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkandalyan" alt="furkandalyan" /></a> </p>
 
+- 📫 How to reach me **dmf.furkan@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/furkandalyan)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkandalyan)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkandalyan&show_icons=true&locale=en&layout=compact" alt="furkandalyan" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkandalyan)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkandalyan&show_icons=true&locale=en" alt="furkandalyan" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkandalyan&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/furkandalyan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=furkandalyan)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkandalyan&" alt="furkandalyan" /></p>
