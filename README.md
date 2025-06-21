@@ -1,113 +1,86 @@
-![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
-<div align="center">
- <a href="https://github.com/furkandalyan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%91%89+Furkan+Dalyan+%f0%9f%91%88;+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+# 👋 Hello, I'm Furkan Dalyan
 
-<img src="https://media4.giphy.com/media/zMukICnMEZmSf8zvXd/200w.gif?cid=6c09b9529defeirg5wriojvhde1vuu38zqs64krsmsd2pppb&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Coding" width=200 height=200 align="right">
+Welcome to my GitHub profile! I'm currently studying **Computer Engineering** at **Acıbadem University** in Istanbul. As someone who’s deeply curious about how things work under the hood, I’m always trying to build, break, fix, and rebuild things — mostly in code, sometimes in real life too.
 
+I enjoy blending logic with creativity. Whether I’m developing web applications or scripting tools in Python, my goal is to create things that are not only functional, but also clean, efficient, and easy to understand (by both humans and machines).
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+Coding for me is not just a career path, but also a way to learn, experiment, and express ideas. And sometimes — just sometimes — it’s also a source of mild chaos, especially when something works for no apparent reason.
 
-- 🔭 I’m currently working on **PYTHON**
+---
 
-- 💬 Ask me about **PYTHON**
+## 🔭 Currently Working On
 
-- 📫 How to reach me **dmf.furkan@gmail.com**
+Right now, I’m focusing on several areas where I want to grow stronger both in theory and practice:
 
+- **Python development**, especially small tools, data-driven utilities, and automation scripts.
+- Building structured web applications using **Django**, with attention to clean backend logic and intuitive frontend design.
+- Exploring the world of **Unity**, where I’m trying to turn abstract game ideas into interactive experiences — often learning through trial and (a lot of) error.
 
+I'm also paying more attention to the **importance of writing maintainable and readable code**, rather than just code that "works".
 
+---
 
+## 🌱 What I'm Learning
 
+Technology never stops evolving, and neither do I. I'm currently diving into:
 
+- **Advanced Django features**, such as custom middleware, class-based views, and authentication systems.
+- **Frontend technologies** like JavaScript and responsive design to better complement my backend work.
+- **Game mechanics and physics** in Unity, especially how to create engaging user experiences.
+- **Version control, clean architecture**, and better project organization to make my code more scalable.
 
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
-# 💻 Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I believe learning is most effective when it's hands-on, so I'm always building side projects to apply what I learn.
 
+---
 
+## 💬 Topics I Can Talk About
+
+Feel free to reach out or ask if you want to chat about:
+
+- Python scripting, logic, best practices, and general usage
+- Setting up Django projects, models, views, and template structures
+- HTML/CSS layouting and responsive design strategies
+- JavaScript behavior, basic DOM manipulation, and interactions
+- How Unity scenes work, simple animations, object collisions and more
+
+I don’t claim to know everything, but I enjoy solving problems and love collaborating with others.
+
+---
+
+## 📫 How to Reach Me
+
+You can reach me via email:
+
+**📩 dmf.furkan@gmail.com**
+
+Whether you want to collaborate on a project, ask for help, or just say hi — feel free to drop a message. I may take a while if I’m deep into debugging something... but I’ll get back to you!
+
+---
+
+## ⚡ A Little Fun on the Side
+
+Here are some things about me you might not find in a typical profile:
+
+- I sometimes spend more time styling a button than writing the entire backend logic.
+- I'm fluent in English, Turkish, and "Stack Overflow error language".
+- I once fixed a bug by changing the file name... and it worked. I still don’t know why. It lives rent-free in my brain.
+
+Coding isn’t always smooth — but every obstacle is a chance to learn, adapt, and come back stronger.
+
+---
+
+## 📈 GitHub Activity
+
+> Contributions don’t always show the struggle behind the scenes — but every dot represents persistence, curiosity, and a few cups of coffee.
+
+![Profile Views](https://komarev.com/ghpvc/?username=furkandalyan&color=blue)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkandalyan/furkandalyan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkandalyan/furkandalyan/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/furkandalyan/furkandalyan/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
 
-
-# Github Stats
-
- <br />
- 
-  <p align="left">
-  <a>
-    <img heigth="160" width="182" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
-      <img align="centre" src="https://github-readme-stats.vercel.app/api?username=furkandalyan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="">
-  <a>
-    <img heigth="160" width="182" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-    <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=furkandalyan&theme=material-palenight&hide_border=false" alt="furkandalyan" width="55%" />
-    
-  </a>
-</p>
- 
-
- 
- <br />
- 
-  
-  
-  <div align="center">
- <a href="https://github.com/furkandalyan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+;+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+;++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+" alt="Typing SVG" />
- </a>
-</div>
- 
-  
-  
-
- 
- 
- 
- 
- 
- 
- 
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/furkandalyan/github-readme-stats)
--->
-
-
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=furkandalyan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-
-
-<br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
+Thanks for stopping by — and happy coding! 🚀
